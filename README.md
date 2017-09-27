@@ -9,4 +9,5 @@ A Pure javascript project without use of any framework. So to play just clone th
 
 
 
-
+![Piggy](Pig-game-1.png?raw=true "Piggy is happy!")
+![Piggy](Pig-game-2.png?raw=true "Piggy is happy!")
